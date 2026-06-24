@@ -2,3 +2,11 @@ working with the banking domain project
 10 modules
 30+service
 types of accounts
+
+-----------------
+new changes on 23 June 2026
+
+user monthly reports
+user transactions
+
+------

@@ -1,0 +1,4 @@
+working with the banking domain project
+10 modules
+30+service
+types of accounts
